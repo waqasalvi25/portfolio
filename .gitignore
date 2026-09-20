@@ -17,3 +17,6 @@ yarn-error.log*
 
 *.zip
 node_modules
+
+# build output
+dist
